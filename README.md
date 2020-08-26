@@ -1,2 +1,2 @@
 # VBA-challenge
-Excel VBA Homework
+Excel VBA challenge
